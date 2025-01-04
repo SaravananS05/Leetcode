@@ -21,11 +21,10 @@ public:
         while(!q.empty())
         {
             int count = q.size();
-            vector<int> v;
+            int v;
             while(count!=0){
                 TreeNode* curr = q.front();
                 q.pop();
-                v.push_back(curr->val);
                 if(curr->left){
                     q.push(curr->left);
                 }
@@ -33,8 +32,11 @@ public:
                     q.push(curr->right);
                 }
                 count--;
+                if(count==0){
+                    v = curr->val;
+                }
             }
-            res.push_back(v.back());
+            res.push_back(v);
         }
         return res;
     }
