@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaravananS-05/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
+## Greedy
+|  |
+| ------- |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
