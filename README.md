@@ -86,9 +86,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/SaravananS-05/Leetcode/tree/master/0394-decode-string) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SaravananS-05/Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SaravananS-05/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
