@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/SaravananS-05/Leetcode/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/SaravananS-05/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/SaravananS-05/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/SaravananS-05/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/SaravananS-05/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
