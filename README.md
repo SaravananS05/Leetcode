@@ -105,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SaravananS-05/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SaravananS-05/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SaravananS-05/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SaravananS-05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SaravananS-05/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1013-fibonacci-number) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/SaravananS-05/Leetcode/tree/master/0063-unique-paths-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SaravananS-05/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
