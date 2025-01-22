@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SaravananS-05/Leetcode/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/SaravananS-05/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SaravananS-05/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SaravananS-05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/SaravananS-05/Leetcode/tree/master/0120-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/SaravananS-05/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/SaravananS-05/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
