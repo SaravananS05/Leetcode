@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SaravananS-05/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SaravananS-05/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/SaravananS-05/Leetcode/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/SaravananS-05/Leetcode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaravananS-05/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SaravananS-05/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/SaravananS-05/Leetcode/tree/master/0135-candy) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/SaravananS-05/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
