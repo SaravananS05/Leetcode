@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SaravananS-05/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/SaravananS-05/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SaravananS-05/Leetcode/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/SaravananS-05/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SaravananS-05/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SaravananS-05/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/SaravananS-05/Leetcode/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/SaravananS-05/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,4 +158,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/SaravananS-05/Leetcode/tree/master/0547-number-of-provinces) |
+| [0871-keys-and-rooms](https://github.com/SaravananS-05/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
