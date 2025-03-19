@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SaravananS-05/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/SaravananS-05/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/SaravananS-05/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [2478-longest-nice-subarray](https://github.com/SaravananS-05/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SaravananS-05/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/SaravananS-05/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SaravananS-05/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/SaravananS-05/Leetcode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/SaravananS-05/Leetcode/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/SaravananS-05/Leetcode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
